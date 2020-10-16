@@ -12,6 +12,8 @@ package hotelapp;
  * See pdf description of the project for the requirements.
  * You are expected to add other classes and methods from project 1 to this project,
  * and take instructor's / TA's feedback from a code review of project 1 into account.
+ * Your program should still be able to support search functions like in project 1
+ * (search does not need to be concurrent).
  */
 public class HotelSearch {
     public static void main(String[] args) {
